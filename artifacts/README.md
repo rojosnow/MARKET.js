@@ -23,4 +23,4 @@ The initial alpha release of MARKET.js should satisfy the DEX happy path and del
 
 The supporting documents are located in this repo, [PDF Product Flows](MARKETjs-Product-Flows.pdf), and online at [Lucidchart Product Flows](https://www.lucidchart.com/documents/view/f845b57f-7079-4786-bd47-e0eac1916722). If you need access to the online version, please open an issue with the details of your request.
 
-The UML sequence diagrams will have a different fidelity depending upon the which level you view. Please reference the `Flow Detail` at the top of the page as your legend.
+The UML sequence diagrams will have a different fidelity depending upon the which level you view. Please reference the `Flow Detail` legend at the top of the page.
